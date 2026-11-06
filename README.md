@@ -1,7 +1,6 @@
+<!---
 - 👋 Hi, I’m @Nasokom
 - 👀 I’m interested in WebDeveloppement and creative stuff
-- 🌱 I’m currently learning everything 
-<!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Dragon / Heiachi 
